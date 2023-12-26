@@ -15,10 +15,10 @@ I'm a newbie web developer and UI/UX designer who is passionate about creating v
 - [Web Development Blog](link-to-blog): Share your journey and insights as a web developer.
 
 ## GitHub Stats 📊
-![Rohil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramramji001&show_icons=true&hide=issues)
+![Rohil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohilkohli&show_icons=true&hide=issues)
 
 ## GitHub Activity Graph 📈
-![Rohil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramramji001)
+![Rohil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohilkohli)
 
 ## Connect with Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/rohilkohli/)
