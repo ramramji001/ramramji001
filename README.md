@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Rohil Kohli! 👋
 
-<!--
-**ramramji001/ramramji001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+I'm a newbie web developer and UI/UX designer who is passionate about creating visually appealing and user-friendly websites. I also have a love for photography and photo editing.
 
-Here are some ideas to get you started:
+## Skills 💻
+- **Web Development:** HTML, CSS, JavaScript
+- **UI/UX Design:** Figma
+- **Database:** SQL
+- **Programming:** Java, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 🛠️
+- [Portfolio Website](https://www.yourportfolio.com): Showcase your projects and skills.
+- [Photo Editing App](link-to-photo-app): A project where you can apply your design and programming skills.
+- [Web Development Blog](link-to-blog): Share your journey and insights as a web developer.
+
+## GitHub Stats 📊
+![Rohil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramramji001&show_icons=true&hide=issues)
+
+## GitHub Activity Graph 📈
+![Rohil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ramramji001)
+
+## Connect with Me 🌐
+- [LinkedIn](https://www.linkedin.com/in/rohilkohli/)
+- [Twitter](https://twitter.com/rohilkohli)
+- [Portfolio Website](https://www.yourportfolio.com)
