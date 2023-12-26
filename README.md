@@ -1,25 +1,7 @@
-<div>
-    <h1>Hello, I'm Rohil Kohli! 👋</h1>
-    <p>I'm a newbie web developer and UI/UX designer passionate about creating...</p>
-</div>
-<div style="animation: fadeInUp 2s ease-in-out;">
-    <h1>Hello, I'm Rohil Kohli! 👋</h1>
-    <p>I'm a newbie web developer and UI/UX designer passionate about creating...</p>
-</div>
+# Hi, I'm Rohil Kohli! 👋
 
-<style>
-    @keyframes fadeInUp {
-        from {
-            opacity: 0;
-            transform: translateY(20px);
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-</style>
-
+## About Me 🚀
+I'm a newbie web developer and UI/UX designer who is passionate about creating visually appealing and user-friendly websites. I also have a love for photography and photo editing.
 
 ## Skills 💻
 - **Web Development:** HTML, CSS, JavaScript
